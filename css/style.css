@@ -1,0 +1,38 @@
+h1{
+    color: yellow;
+    
+}
+
+.fondo{
+    background-image: url('/image/dame_trabajo.jpg');
+    background-size: cover; /* Ajusta la imagen al tamaño de la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que se repita */
+    height: 100vh; /* Asegura que cubra toda la pantalla */
+}
+
+h1{
+    color: red;
+    background-color: darksalmon;
+    border: 300px solid bisque;
+    font-family: fantasy;
+}
+
+.title{
+    color: aqua;
+}
+
+.container{
+    background-color: rgb(54, 112, 112);
+    width: fit-content;
+    height: fit-content;
+    padding: 3px;
+
+}
+
+.container h2{
+    margin: auto;
+    text-align: center;
+    color: #461e1e;
+    width: fit-content;
+}
